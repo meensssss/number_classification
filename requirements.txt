@@ -1,0 +1,10 @@
+fastapi==0.92.0
+pydantic==1.10.4
+uvicorn==0.20.0
+uvloop
+httptools
+numpy
+joblib==1.2.0
+Pillow
+opencv-python-headless
+tensorflow==2.12.0
